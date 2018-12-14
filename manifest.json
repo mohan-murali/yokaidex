@@ -33,7 +33,7 @@
             "type": "image/png"
         }
     ],
-    "start_url": "/",
+    "start_url": "/yokaidex/",
     "display": "standalone",
     "theme_color": "#01579b",
     "background_color": "#ffffff"
