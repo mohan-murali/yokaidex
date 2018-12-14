@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/yokaidex/static/js/1.5a8c92ac.chunk.js"
   },
   {
-    "revision": "76c1c702d7e3f417e19a49553e044def",
+    "revision": "c4c1d4f9e0c89ec81dc3f995a96642e1",
     "url": "/yokaidex/index.html"
   }
 ];
