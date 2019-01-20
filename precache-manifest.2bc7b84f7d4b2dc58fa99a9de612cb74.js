@@ -8,11 +8,11 @@ self.__precacheManifest = [
     "url": "/yokaidex/static/js/main.1d360192.chunk.js"
   },
   {
-    "revision": "ae09f6616856fd1d515c",
-    "url": "/yokaidex/static/js/1.ae09f661.chunk.js"
+    "revision": "b1fb96bcba01285294ff",
+    "url": "/yokaidex/static/js/1.b1fb96bc.chunk.js"
   },
   {
-    "revision": "4af7fada0107d158f0353664dc855208",
+    "revision": "cc5867a8853856168710f2ac2680a2af",
     "url": "/yokaidex/index.html"
   }
 ];
