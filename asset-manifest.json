@@ -1,11 +1,11 @@
 {
-  "main.js": "/yokaidex/static/js/main.8065c14f.chunk.js",
-  "main.js.map": "/yokaidex/static/js/main.8065c14f.chunk.js.map",
+  "main.js": "/yokaidex/static/js/main.8eaedefd.chunk.js",
+  "main.js.map": "/yokaidex/static/js/main.8eaedefd.chunk.js.map",
   "static/js/1.bc359c6b.chunk.js": "/yokaidex/static/js/1.bc359c6b.chunk.js",
   "static/js/1.bc359c6b.chunk.js.map": "/yokaidex/static/js/1.bc359c6b.chunk.js.map",
   "runtime~main.js": "/yokaidex/static/js/runtime~main.82f4b948.js",
   "runtime~main.js.map": "/yokaidex/static/js/runtime~main.82f4b948.js.map",
   "index.html": "/yokaidex/index.html",
-  "precache-manifest.8dd6ff8be90bddc30a22d28b83cc422e.js": "/yokaidex/precache-manifest.8dd6ff8be90bddc30a22d28b83cc422e.js",
+  "precache-manifest.55524de00c789158c4c229bd65512d4a.js": "/yokaidex/precache-manifest.55524de00c789158c4c229bd65512d4a.js",
   "service-worker.js": "/yokaidex/service-worker.js"
 }
