@@ -1,11 +1,11 @@
 {
-  "main.js": "/yokaidex/static/js/main.f4a22ca5.chunk.js",
-  "main.js.map": "/yokaidex/static/js/main.f4a22ca5.chunk.js.map",
-  "static/js/1.a290b503.chunk.js": "/yokaidex/static/js/1.a290b503.chunk.js",
-  "static/js/1.a290b503.chunk.js.map": "/yokaidex/static/js/1.a290b503.chunk.js.map",
+  "main.js": "/yokaidex/static/js/main.93fb543c.chunk.js",
+  "main.js.map": "/yokaidex/static/js/main.93fb543c.chunk.js.map",
+  "static/js/1.2282d6cb.chunk.js": "/yokaidex/static/js/1.2282d6cb.chunk.js",
+  "static/js/1.2282d6cb.chunk.js.map": "/yokaidex/static/js/1.2282d6cb.chunk.js.map",
   "runtime~main.js": "/yokaidex/static/js/runtime~main.82f4b948.js",
   "runtime~main.js.map": "/yokaidex/static/js/runtime~main.82f4b948.js.map",
   "index.html": "/yokaidex/index.html",
-  "precache-manifest.229a0f9c1116c81581c127e7e338582b.js": "/yokaidex/precache-manifest.229a0f9c1116c81581c127e7e338582b.js",
+  "precache-manifest.45f22e743edd9a48df745f5e0fcd3be0.js": "/yokaidex/precache-manifest.45f22e743edd9a48df745f5e0fcd3be0.js",
   "service-worker.js": "/yokaidex/service-worker.js"
 }
