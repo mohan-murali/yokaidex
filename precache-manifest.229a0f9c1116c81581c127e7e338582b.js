@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/yokaidex/static/js/runtime~main.82f4b948.js"
   },
   {
-    "revision": "7c648eecc3cd2f298491",
-    "url": "/yokaidex/static/js/main.7c648eec.chunk.js"
+    "revision": "f4a22ca504ada35ccfb9",
+    "url": "/yokaidex/static/js/main.f4a22ca5.chunk.js"
   },
   {
     "revision": "a290b50397b6164c2594",
     "url": "/yokaidex/static/js/1.a290b503.chunk.js"
   },
   {
-    "revision": "724075068add051373ef19e3ddb6d02e",
+    "revision": "3b598ee1abce8e198bea8f50324d7c3e",
     "url": "/yokaidex/index.html"
   }
 ];
